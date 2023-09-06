@@ -1,4 +1,4 @@
-<img src="https://www.botreetechnologies.com/blog/wp-content/uploads/2019/04/full-stack-developer.jpg" height=200 width="100%"/>
+<img src="https://www.botreetechnologies.com/blog/wp-content/uploads/2019/04/full-stack-developer.jpg" height=200  style="text-align:center"/>
 ### Hi there, I am Mohammad 👋
 - 🌱 I’m currently learning full stack development at <a href="https://www.meraki-academy.org/">Meraki Academy</a>
 
