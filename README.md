@@ -1,4 +1,4 @@
-<img src="https://codequotient.com/blog/wp-content/uploads/2021/01/What-is-the-Future-Scope-of-a-Full-Stack-Developer-in-India.jpg"/>
+<img src="https://www.botreetechnologies.com/blog/wp-content/uploads/2019/04/full-stack-developer.jpg"/>
 ### Hi there, I am Mohammad 👋
 - 🌱 I’m currently learning full stack development at <a href="https://www.meraki-academy.org/">Meraki Academy</a>
 
