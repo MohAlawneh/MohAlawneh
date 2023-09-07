@@ -22,9 +22,6 @@ Here are some of my notable projects:
 
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MohAlawneh&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
-
-
 ![Profile Views](https://komarev.com/ghpvc/?username=yourgithubprofile)
 
 <!--
