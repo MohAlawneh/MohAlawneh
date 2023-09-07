@@ -1,5 +1,5 @@
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%"/>
-![Alt Text](https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif)
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" height="50%"/>
+
 
 
 # Mohammad Alawneh
