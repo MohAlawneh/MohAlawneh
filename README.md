@@ -25,6 +25,7 @@ Email: mohammadwalid.alawneh@gmail.com
 
 
 ![Profile Views](https://komarev.com/ghpvc/?username=yourgithubprofile)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MohAlawneh&hide=contribs,prs)
 
 <!--
 **MohAlawneh/MohAlawneh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
