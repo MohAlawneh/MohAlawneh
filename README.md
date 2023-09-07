@@ -17,9 +17,9 @@ Here are some of my notable projects:
 
 ### 📫 Contact
 <a href="https://www.linkedin.com/in/moha-alawneh/"><img  src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="mohammadwalid.alawneh@gmail.com"><img  src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://github.com/MohAlawneh"><img  src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
 
-
-Email: mohammadwalid.alawneh@gmail.com
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MohAlawneh&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
