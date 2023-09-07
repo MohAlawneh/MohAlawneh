@@ -20,7 +20,8 @@ Here are some of my notable projects:
 <a href="mohammadwalid.alawneh@gmail.com"><img  src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 <a href="https://github.com/MohAlawneh"><img  src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
 
-[![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=MohAlawneh&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
+[![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=MohAlawneh&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/MohAlawneh/github-readme-stats#gh-dark-mode-only)
+[![Anurag's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=MohAlawneh&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/MohAlawneh/github-readme-stats#gh-light-mode-only)
 
 
 ![Profile Views](https://komarev.com/ghpvc/?username=yourgithubprofile)
