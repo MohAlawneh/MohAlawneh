@@ -1,7 +1,7 @@
 
 <!-- Your Name -->
 # Mohammad Alawneh
-## Web Developer  | <a href="https://www.linkedin.com/in/moha-alawneh/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+## Web Developer  | <a href="https://www.linkedin.com/in/moha-alawneh/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 
 Welcome to my GitHub profile! I'm a passionate web developer with a love for clean, efficient code and user-friendly design. My journey in web development began in 2023, and I've been on a continuous learning path, exploring various technologies and tools to create amazing web experiences.
 
