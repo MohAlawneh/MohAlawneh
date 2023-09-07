@@ -1,5 +1,5 @@
 <img src="https://wpshopmart.com/wp-content/uploads/2016/10/Code-It-Logical-HD-Wallpaper-1.jpg" width="100%"/>
-![color picker]([https://bobbyhadz.com/images/blog/change-vscode-integrated-terminal-colors/hover-over-color.gif](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif) 'title text here')
+![Alt Text](https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif)
 
 
 # Mohammad Alawneh
