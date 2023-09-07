@@ -18,7 +18,7 @@ Welcome to my GitHub profile! I'm a passionate web developer with a love for cle
 
 Here are some of my notable projects:
 
-- [Project 1](https://github.com/C8-MohAlawneh/MERAKI_Academy_Project_4): Description of Project 1.
+- [Socioverse](https://github.com/C8-MohAlawneh/MERAKI_Academy_Project_4): Socioverse is an innovative social media platform designed to bridge the gap between online connections and real-life relationships. Unlike traditional social networks, Socioverse places a strong emphasis on fostering meaningful and authentic connections among its users. It helps you to Building Relationships and Staying Connected. The Socioverse provides a simple design to ensure having the best user experience.
 
 ### 📫 Contact
 <a href="https://www.linkedin.com/in/moha-alawneh/"><img  src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
