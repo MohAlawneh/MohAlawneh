@@ -1,4 +1,4 @@
-<img src="https://wpshopmart.com/wp-content/uploads/2016/10/Code-It-Logical-HD-Wallpaper-1.jpg"/>
+<img src="https://wpshopmart.com/wp-content/uploads/2016/10/Code-It-Logical-HD-Wallpaper-1.jpg" width="100%"/>
 # Mohammad Alawneh
 ## Web Developer
 
