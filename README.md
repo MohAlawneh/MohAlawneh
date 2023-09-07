@@ -22,9 +22,7 @@ Here are some of my notable projects:
 Email: mohammadwalid.alawneh@gmail.com
 
 
-### 🌐 Connect
 
-Let's connect and discuss web development, collaboration opportunities, or just chat about tech. Feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/moha-alawneh/).
 
 ![Profile Views](https://komarev.com/ghpvc/?username=yourgithubprofile)
 
